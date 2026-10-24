@@ -4,10 +4,10 @@ An end-to-end data analytics project focused on understanding customer purchasin
 
 ## Dashboard Preview
 
-![Customer Behaviour Dashboard](images/customer-behaviour-dashboard.png)
+![Customer Behaviour Dashboard](images/customer_behaviour_analysis(1).png)
 
 ## Project Overview
-
+-
 The objective of this project is to analyse customer shopping data, answer business-related questions using SQL, and present key metrics through a Power BI dashboard.
 
 The analysis covers customer demographics, purchase amounts, product categories, subscription status, shipping preferences, discounts, and purchasing frequency.
