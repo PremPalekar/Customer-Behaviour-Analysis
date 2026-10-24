@@ -4,7 +4,7 @@ An end-to-end data analytics project focused on understanding customer purchasin
 
 ## Dashboard Preview
 
-![Customer Behaviour Dashboard](images/customer_behaviour_analysis(1).png)
+![Customer_Behaviour_analysis](images/customer_behaviour_analysis(1).png)
 
 ## Project Overview
 -
