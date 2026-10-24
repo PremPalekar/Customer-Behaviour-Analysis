@@ -191,14 +191,5 @@ Open `customer_behaviour_dashboard.pbix` in Power BI Desktop. Configure the data
 - Document verified business findings and actionable recommendations.
 - Add a `requirements.txt` file for reproducible dependency installation.
 - Document the dashboard's data source and refresh process.
-
-## Author
-
-**Your Name**
-
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-
----
-
+  
 **Project Category:** Data Analytics | Customer Behaviour Analysis | Business Intelligence
