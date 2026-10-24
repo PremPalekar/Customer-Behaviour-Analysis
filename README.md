@@ -2,11 +2,7 @@
 
 An end-to-end data analytics project focused on understanding customer purchasing behaviour, subscription patterns, discount usage, product ratings, and sales performance. This project combines Python-based data preparation, PostgreSQL database integration, SQL business analysis, and an interactive Power BI dashboard.
 
-## Dashboard Preview
-
-![Customer_Behaviour_analysis](images/customer_behaviour_analysis(1).png)
-
-## Project Overview
+# Project Overview
 -
 The objective of this project is to analyse customer shopping data, answer business-related questions using SQL, and present key metrics through a Power BI dashboard.
 
